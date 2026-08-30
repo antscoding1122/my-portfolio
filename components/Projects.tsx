@@ -13,7 +13,7 @@ const projects = [
     description:
       "The first portfolio website I made.",
     image: "/images/portfolio-website.png",
-    href: "/",
+    href: "https://my-portfolio-antscoding1122.vercel.app/",
     tags: ["Frontend"],
     skills: ["Next.js", "Tailwind CSS"],
     uploaded: "2026-08-29",
