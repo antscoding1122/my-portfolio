@@ -29,8 +29,6 @@ The website highlights my projects and experience in a clean, responsive interfa
 - Git & GitHub
 - [Vercel](https://vercel.com/)
 
-> Update this section to match the technologies actually used in the project.
-
 ## Project Structure
 
 ```text
