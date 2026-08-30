@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio Website
 
-## Getting Started
+My personal portfolio website showcasing my background, technical skills, projects, and experience.
 
-First, run the development server:
+**Live Website:** [my-portfolio-antscoding1122.vercel.app](https://my-portfolio-antscoding1122.vercel.app/)
+
+## Overview
+
+This portfolio was built to provide a central place to showcase my work, technical experience, and projects while continuing to develop my skills in software development and data analysis.
+
+The website highlights my projects and experience in a clean, responsive interface designed to make it easy for recruiters, employers, and other developers to learn more about me and explore my work.
+
+## Features
+
+- **About Me** — Introduction and background
+- **Skills** — Overview of my technical skills and tools
+- **Projects** — Showcase of personal and academic projects
+- **Experience** — Relevant work and tutoring experience
+- **Responsive Design** — Designed to work across desktop and mobile devices
+- **Project Links** — Direct access to source code and deployed projects
+- **Contact Information** — Ways to get in touch
+
+## Technologies
+
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- CSS / Tailwind CSS
+- Git & GitHub
+- [Vercel](https://vercel.com/)
+
+> Update this section to match the technologies actually used in the project.
+
+## Project Structure
+
+```text
+portfolio/
+├── public/          # Images, icons, and other static assets
+├── src/
+│   ├── app/         # Application pages and layouts
+│   ├── components/  # Reusable UI components
+│   └── ...
+├── package.json
+├── README.md
+└── ...
+```
+
+## Development
+
+Clone the repository:
+
+```bash
+git clone <your-repository-url>
+cd <your-repository-name>
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open the application at:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Deployment
 
-## Learn More
+The portfolio is deployed using [Vercel](https://vercel.com/).
 
-To learn more about Next.js, take a look at the following resources:
+Changes pushed to the connected GitHub repository can be deployed through Vercel's deployment workflow.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Live:**  
+https://my-portfolio-antscoding1122.vercel.app/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Purpose
 
-## Deploy on Vercel
+This project serves as both my personal portfolio and an ongoing demonstration of my development skills.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Rather than treating the portfolio as a finished project, I plan to continue improving it as I build new projects, learn new technologies, and gain additional experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Future Improvements
+
+Some planned improvements include:
+
+- Adding additional projects and case studies
+- Improving accessibility
+- Further optimizing performance
+- Adding more detailed project documentation
+- Improving mobile responsiveness
+- Adding animations and interactive elements where appropriate
+- Continuing to refine the overall UI/UX
